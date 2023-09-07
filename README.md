@@ -13,4 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/heard-in-apple-ads/pl.b28c3a5975b04436b42680595f6983ad"></iframe>
+## 🔧 Skills
+
+- **Programming Languages:** Python, JavaScript
+- **Web Development:** HTML, CSS, JavaScript
+- **Version Control:** Git, GitHub
+- **Other Tools:** VS Code, Photoshop, Illustrator, After Effects
+
+## 💬 Contact Me
+
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/andrew-nnani-b87256240/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/aunnani03?s=21&t=sMTHPPxkpculCSFp1qVE6g)
+
+## 📚 Education
+
+- Highschool Diploma, Rolesville High School, Class of 2021
+- B.S. in Information Science, Class of 2025
+
+## 🌐 Fun Facts
+
+- 🎮 I'm a video game enthusiast.
+- 📚 I'm a music enthusiast.
+- 🎨 I dabble in digital art and design.
+
+Thanks for visiting my GitHub profile! 😄
