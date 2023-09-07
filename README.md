@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 Thanks for visiting my GitHub profile! 😄
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/coraz%C3%B3n-sin-cara/841018262?i=841018305"></iframe>
+https://music.apple.com/us/playlist/corner-classics/pl.u-leyl0k8SjLAW0P8?itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music
