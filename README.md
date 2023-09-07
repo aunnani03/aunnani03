@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 
 Thanks for visiting my GitHub profile! 😄
 
-https://music.apple.com/us/playlist/corner-classics/pl.u-leyl0k8SjLAW0P8?itscg=30200&itsct=toolbox_linkbuilder&ls=1&app=music
+<a href="https://music.apple.com/us/playlist/corner-classics/pl.u-leyl0k8SjLAW0P8?itscg=30200&amp;itsct=toolbox_linkbuilder&amp;ls=1&amp;app=music" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 83px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/app-icon-music/standard/en-us?size=83x83" alt="App Icon Apple Music" style="border-radius: 13px; width: 83px; height: 83px;"></a>
+
