@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 💬 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/andrew-nnani-b87256240/])
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/andrew-nnani-b87256240/)
 - Twitter: [@aunnani03](https://twitter.com/aunnani03?s=21&t=sMTHPPxkpculCSFp1qVE6g)
 
 ## 📚 Education
