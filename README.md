@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 - LinkedIn: [Andrew Nnani](https://www.linkedin.com/in/andrew-nnani-b87256240/)
 - Twitter: [@eziokwuche](https://twitter.com/eziokwuche?s=21&t=sMTHPPxkpculCSFp1qVE6g)
+- Instagram: [@eziokwu.uche](https://instagram.com/eziokwu.uche?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 
 ## 📚 Education
 
