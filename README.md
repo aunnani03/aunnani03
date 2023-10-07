@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 📚 Education
 
 - Highschool Diploma, Rolesville High School, Class of 2021
-- B.S. in Information Science, Class of 2025
+- B.S. in Information Science, Class of 2025(Present)
 
 ## 🌐 Fun Facts
 
